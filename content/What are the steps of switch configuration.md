@@ -1,9 +1,9 @@
 ---
 title: Template for Knowledge Base Docs Websites
 ---
-## The index page
+## Main Categories
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+[[initial-access/index|Initial Access & Preparation]] - [[device-administration/index|Basic Device Administration]] - [[network-segmentation/index|Network Segmentation (VLANs)]] - [[interface-configuration/index|Port & Interface Configuration]] - [[security-controls/index|Network Security Controls]] - [[config-management/index|Verification & Configuration Management]]`
 
 ## Editing pages
 
