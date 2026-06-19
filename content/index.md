@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Steps to Configure a Cisco Switch
 ---
 ## Main Categories
 
