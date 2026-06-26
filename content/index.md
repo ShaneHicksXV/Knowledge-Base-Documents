@@ -3,7 +3,7 @@ title: Steps to Configure a Cisco Switch
 ---
 ## Main Categories
 
-[[initial-access/index|Initial Access & Preparation]] - [[device-administration/index|Basic Device Administration]] - [[network-segmentation/index|Network Segmentation (VLANs)]] - [[interface-configuration/index|Port & Interface Configuration]] - [[security-controls/index|Network Security Controls]] - [[config-management/index|Verification & Configuration Management]]`
+[[2. Initial Access and Preparation/initial-access/index|Initial Access & Preparation]] - [[1. Basic Device Administration/device-administration/index|Basic Device Administration]] - [[3. Network Segmentation (VLANs)/network-segmentation/index|Network Segmentation (VLANs)]] - [[4. Port and Interface Configuration/interface-configuration/index|Port & Interface Configuration]] - [[5. Network Security Controls/security-controls/index|Network Security Controls]] - [[6. Verification and Configuration Management/config-management/index|Verification & Configuration Management]]`
 
 ## Editing pages
 
