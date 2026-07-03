@@ -1,42 +1,19 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Steps to Configure a Network Switch
 ---
-## The index page
+## Main Categories
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+ [[2. Basic Device Administration/index|Basic Device Administration]] - [[1. Initial Access and Preparation/index|Initial Access and Preparation]] - [[3. Network Segmentation (VLANs)/index|Network Segmentation (VLANs)]] - [[4. Port and Interface Configuration/index|Port & Interface Configuration]] - [[5. Network Security Controls/index|Network Security Controls]] - [[Verification and Configuration Management|Verification & Configuration Management]]`
 
-## Editing pages
+## Course Content
+- [Basic Device Administration](2.%20Basic%20Device%20Administration/index)
+- [Initial Access and Preparation](1.%20Initial%20Access%20and%20Preparation/index)
+- [Network Segmentation (VLANs)](3.%20Network%20Segmentation%20(VLANs)/index)
 
-You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
+## Configuration and Control
+- [Port & Interface Configuration](4.%20Port%20and%20Interface%20Configuration/index)
+- [Network Security Controls](5.%20Network%20Security%20Controls/index)
+- [Verification & Configuration Management](Verification%20and%20Configuration%20Management.md)
 
-For many people, editing Markdown files with user-friendly interfaces, linking, themes, and 
 
-### Obsidian (free)
-
-Using [Obsidian](https://obsidian.md/) is recommended for writing/editing/creating Markdown files and building your knowledge base. It's free, has a user-friendly Markdown editing interface, and supports a variety of customizations and plugins. Obsidian's default theme and settings are recommended for beginners.
-
-Link: [https://obsidian.md/](https://obsidian.md/)
-
-### Visual Studio Code (free)
-
-Visual Studio Code (vscode) is a popular free and open source code editor.
-
-Installing the [Markdown All in One](https://github.com/yzhang-gh/vscode-markdown) extension is highly recommended for vscode: it adds helpful Markdown features in addition to the built-in vscode Markdown support.
-
-Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
-
-### iA Writer (paid)
-
-iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
-
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
-
----
-## Adding new pages
-
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
 
