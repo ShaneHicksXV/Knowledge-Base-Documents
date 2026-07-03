@@ -1,5 +1,8 @@
 # Network Segmentation (VLANs)
 
+![Network Segmentation Diagram](images/network-segmentation.png)
+
+The diagram shows how a network is divided into smaller, isolated zones or segments.
 ## Why VLANs matter
 
 VLANs, or Virtual Local Area Networks, are a simple but powerful way to divide one physical switch network into multiple logical networks. In basic device administration, VLANs help separate users, devices, and services so traffic stays organized and easier to manage. For example, student devices, staff devices, and printers can live in different VLANs even if they are plugged into the same switch hardware. That separation improves security, reduces unnecessary broadcast traffic, and makes troubleshooting cleaner. Instead of treating the switch like one large flat network, VLANs let you build a structure that matches how the organization actually works.
