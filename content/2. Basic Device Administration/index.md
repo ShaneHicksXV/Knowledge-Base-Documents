@@ -2,7 +2,7 @@
 
 If you haven't completed [[1. Initial Access and Preparation/index|Initial Access and Preparation]] please click the link.
 
-![Front view of a network switch with labeled ports](images/network-switch.jpg)
+[Front view of a network switch with labeled ports]()
 
 # Switch Basics for Device Administration
 
@@ -19,6 +19,8 @@ A switch can seem simple at first, but small configuration choices have a big ef
 - Save changes after every important step.
 - Write down what each interface is used for.
 - Verify the configuration after making changes.
+
+> A well-labeled switch is easier to troubleshoot, secure, and expand.
 
 Good administration is mostly about consistency, not complexity.
 
