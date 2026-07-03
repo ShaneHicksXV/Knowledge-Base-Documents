@@ -2,6 +2,10 @@
 
 If you haven't completed [[1. Initial Access and Preparation/index|Initial Access and Preparation]] please click the link.
 
+![Network switch front panel](images/switch-diagram.jpg)
+
+
+
 # Switch Basics for Device Administration
 
 ## What a switch does
