@@ -6,7 +6,7 @@ If you haven't completed [[1. Initial Access and Preparation/index|Initial Acces
 
 ![Front view of a network switch with labeled ports](images/switch-diagram.png)
 
-This diagram shows the front panel of a switch and helps identify the ports used for management and uplinks.
+This diagram shows the flow and priority of sending and receiving internet traffic
 
 # Switch Basics for Device Administration
 
