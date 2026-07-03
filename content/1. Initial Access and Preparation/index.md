@@ -2,7 +2,7 @@
 
 After the completion of the steps below click on this link to continue [[Basic Device Administration/index|Basic Device Administration]]
 
-[Front view of a network switch with labeled ports](images/network-switch.jpg)
+[Front view of a network switch with labeled ports]([images/network-switch.jpg](obsidian://open?vault=content&file=images%2Fnetwork-switch.jpg))
 
 # Initial Access and Preparation
 
