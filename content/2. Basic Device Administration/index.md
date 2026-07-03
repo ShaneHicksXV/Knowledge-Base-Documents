@@ -30,4 +30,4 @@ Good administration is mostly about consistency, not complexity.
 
 ## Related notes
 
-This page connects to [[initial-access-and-preparation]], [[port-and-interface-configuration]], and [[verification-and-configuration-management]].
+This page connects to [Initial Access and Preparation](1.%20Initial%20Access%20and%20Preparation/index), [Port & Interface Configuration](4.%20Port%20and%20Interface%20Configuration/index), and [Verification & Configuration Management](6.%20Verification%20and%20Configuration%20Management/index)

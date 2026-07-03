@@ -12,4 +12,4 @@ A few basic controls make a real difference. One is limiting access to managemen
 
 ## Where this fits
 
-Security works best when it is paired with [[initial-access-and-preparation]], [[port-and-interface-configuration]], and [[verification-and-configuration-management]]. Together, those pages describe the full flow of basic switch administration.
+Security works best when it is paired with [Initial Access and Preparation](1.%20Initial%20Access%20and%20Preparation/index), [Port & Interface Configuration](4.%20Port%20and%20Interface%20Configuration/index), and [Verification & Configuration Management](6.%20Verification%20and%20Configuration%20Management/index). Together, those pages describe the full flow of basic switch administration.
