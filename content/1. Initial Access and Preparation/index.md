@@ -4,7 +4,7 @@ After the completion of the steps below click on this link to continue [[Basic D
 
 ### Network Switch 
 
-![Front view of a network switch with labeled ports](images/network-switch.jpg)
+![Front view of a network switch with labeled ports](images/network-switch.png)
 
 This picture shows the front panel of a switch and helps identify the ports used for management and uplinks.
 
