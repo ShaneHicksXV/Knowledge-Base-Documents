@@ -2,8 +2,6 @@
 
 If you haven't completed [[1. Initial Access and Preparation/index|Initial Access and Preparation]] please click the link.
 
-[Front view of a network switch with labeled ports](images/network-switch.jpg)
-
 # Switch Basics for Device Administration
 
 ## What a switch does

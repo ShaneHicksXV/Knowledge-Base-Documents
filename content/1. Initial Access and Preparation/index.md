@@ -2,6 +2,8 @@
 
 After the completion of the steps below click on this link to continue [[Basic Device Administration/index|Basic Device Administration]]
 
+[Front view of a network switch with labeled ports](images/network-switch.jpg)
+
 # Initial Access and Preparation
 
 ## Getting connected to the switch
