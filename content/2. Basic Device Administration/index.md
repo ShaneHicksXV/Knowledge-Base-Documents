@@ -4,7 +4,9 @@ If you haven't completed [[1. Initial Access and Preparation/index|Initial Acces
 
 ### Switch Diagram
 
-![Network switch front panel](images/switch-diagram.png)
+![Front view of a network switch with labeled ports](images/switch-diagram.png)
+
+This diagram shows the front panel of a switch and helps identify the ports used for management and uplinks.
 
 # Switch Basics for Device Administration
 
