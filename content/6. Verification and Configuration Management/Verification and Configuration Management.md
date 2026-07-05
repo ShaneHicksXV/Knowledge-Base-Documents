@@ -20,4 +20,4 @@ The best switch administrators do not just change settings. They also confirm, d
 
 ## Related pages
 
-This page connects back to [Basic Device Administration](2.%20Basic%20Device%20Administration/index), [Initial Access and Preparation](1.%20Initial%20Access%20and%20Preparation/index), and [Network Security Controls](5.%20Network%20Security%20Controls/index).
+This page connects back to [Basic Device Administration](2.%20Basic%20Device%20Administration/index), [Initial Access and Preparation](1.%20Initial%20Access%20and%20Preparation/index), and [Network Security Controls](Network%20Security%20Controls.md).

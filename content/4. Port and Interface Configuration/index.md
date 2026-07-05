@@ -21,4 +21,4 @@ A port that connects to a classroom PC might be labeled by room and desk number,
 
 ## Related notes
 
-This page links naturally to [Network Security Controls](5.%20Network%20Security%20Controls/index) and [Verification & Configuration Management](Verification%20and%20Configuration%20Management.md).
+This page links naturally to [Network Security Controls](Network%20Security%20Controls.md) and [Verification & Configuration Management](Verification%20and%20Configuration%20Management.md).
