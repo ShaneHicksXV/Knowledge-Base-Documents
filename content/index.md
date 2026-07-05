@@ -15,7 +15,7 @@ title: Steps for Configuring a Network Switch
 
 - [Initial Access and Preparation](1.%20Initial%20Access%20and%20Preparation/index)
 
-- [Network Segmentation (VLANs)](3.%20Network%20Segmentation%20(VLANs)/Network Security Controls)
+- [Network Segmentation (VLANs)](3.%20Network%20Segmentation%20(VLANs)/index)
 
   
 
