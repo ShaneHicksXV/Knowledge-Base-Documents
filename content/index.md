@@ -23,7 +23,7 @@ title: Steps for Configuring a Network Switch
 
 - [Port & Interface Configuration](4.%20Port%20and%20Interface%20Configuration/index)
 
-- [index](5.%20Network%20Security%20Controls/index.md)
+- [Network Security Controls](5.%20Network%20Security%20Controls/index.md)
 
 - [Verification & Configuration Management](6.%20Verification%20and%20Configuration%20Management/index.md)
 
