@@ -8,7 +8,7 @@ If you haven't completed [[Preparation|Initial Access and Preparation]] please c
 
 This diagram shows the flow and priority of sending and receiving internet traffic
 
-# Switch Basics for Device Administration
+# Switch Basics
 
 ## What a switch does
 

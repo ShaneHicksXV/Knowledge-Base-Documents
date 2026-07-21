@@ -1,6 +1,6 @@
 ## Related Categories
 
-After the completion of the steps below click on this link to continue [[Administration Basics|Basic Device Administration]]
+After the completion of the steps below click on this link to continue [[Access|Accessing Command Line for Initial Configuration]]
 
 ### Network Switch 
 
@@ -19,6 +19,7 @@ Before you can configure a switch, you need a reliable way to access it. In many
 Preparation makes switch administration much safer. Before changing anything, review the current hostname, firmware, IP settings, and interface status. It also helps to note whether the switch is standalone, stacked, or connected to other switches. If you start without that information, you may accidentally change the wrong device or disrupt an active connection. A few minutes of preparation can prevent hours of repair.
 
 ### Preparation checklist
+
 1. Confirm physical access.
 2. Identify the switch model.
 3. Record the current configuration.
