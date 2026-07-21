@@ -8,6 +8,7 @@ After configuring a switch, you should always verify the results. It is easy to 
 Configuration management is the discipline of keeping track of what changed and why. Even in a small project, that can mean saving the running configuration, writing down the date, and noting the reason for the change. In a larger environment, it may involve backups, version tracking, and approval steps. The point is to make future maintenance easier. If a problem appears later, good records help you recover faster and understand what happened.
 
 ### Final review steps
+
 1. Review the active configuration.
 2. Test the management connection.
 3. Confirm the status of important ports.
@@ -20,4 +21,4 @@ The best switch administrators do not just change settings. They also confirm, d
 
 ## Related pages
 
-This page connects back to [Basic Device Administration](2.%20Basic%20Device%20Administration/index), [Initial Access and Preparation](1.%20Initial%20Access%20and%20Preparation/index), and [index](5.%20Network%20Security%20Controls/index.md).
+This page connects back to [Basic Device Administration](Administration%20Basics.md), [Initial Access and Preparation](Preparation.md), and [Security Basics](Security%20Basics.md).

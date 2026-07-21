@@ -1,6 +1,6 @@
 ## Related Categories
 
-After the completion of the steps below click on this link to continue [[Basic Device Administration/index|Basic Device Administration]]
+After the completion of the steps below click on this link to continue [[Administration Basics|Basic Device Administration]]
 
 ### Network Switch 
 
@@ -27,4 +27,4 @@ Preparation makes switch administration much safer. Before changing anything, re
 
 ## Smooth transition to configuration
 
-Once access is stable and the device has been identified, you are ready to move into the more practical work of [Network Segmentation (VLANs)](3.%20Network%20Segmentation%20(VLANs)/index) and [Port & Interface Configuration](4.%20Port%20and%20Interface%20Configuration/index). That progression keeps the process organized and easier to learn.
+Once access is stable and the device has been identified, you are ready to move into the more practical work of [Network Segmentation (VLANs)](What%20are%20Vlans%20and%20How%20They%20Work.md) and [Port & Interface Configuration](Configuration%20Interfaces.md). That progression keeps the process organized and easier to learn.

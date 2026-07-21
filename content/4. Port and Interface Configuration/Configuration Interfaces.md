@@ -27,4 +27,4 @@ For additional help with commands for numerous switches in the command line inte
 
 ## Related notes
 
-This page links naturally to [Network Security Controls](5.%20Network%20Security%20Controls/index.md) and [Verification & Configuration Management](6.%20Verification%20and%20Configuration%20Management/index.md).
+This page links naturally to [Network Security Controls](Security%20Basics.md) and [Verification & Configuration Management](Changes%20in%20Configuration%20Management.md).

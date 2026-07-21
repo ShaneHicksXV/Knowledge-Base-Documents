@@ -27,4 +27,4 @@ A small office might have one VLAN for general users, one for guest devices, and
 
 ## Related pages
 
-This page connects to [Basic Device Administration](2.%20Basic%20Device%20Administration/index), [Port & Interface Configuration](4.%20Port%20and%20Interface%20Configuration/index), [index](5.%20Network%20Security%20Controls/index.md), and [Verification & Configuration Management](6.%20Verification%20and%20Configuration%20Management/index.md)
+This page connects to [Basic Device Administration](Administration%20Basics.md), [Port & Interface Configuration](Configuration%20Interfaces.md), [Security Basics](Security%20Basics.md), and [Verification & Configuration Management](Changes%20in%20Configuration%20Management.md)

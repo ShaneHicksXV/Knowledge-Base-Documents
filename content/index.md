@@ -5,25 +5,25 @@ title: Steps for Configuring a Network Switch
 
   
 
- [[2. Basic Device Administration/index|Basic Device Administration]] - [[1. Initial Access and Preparation/index|Initial Access and Preparation]] - [[3. Network Segmentation (VLANs)/index|Network Segmentation (VLANs)]] - [[4. Port and Interface Configuration/index|Port & Interface Configuration]] - [[5. Network Security Controls/index|Network Security Controls]] - [[6. Verification and Configuration Management/index|Verification & Configuration Management]]`
+ [[Administration Basics|Basic Device Administration]] - [[Preparation|Initial Access and Preparation]] - [[What are Vlans and How They Work|Network Segmentation (VLANs)]] - [[Configuration Interfaces|Port & Interface Configuration]] - [[Security Basics|Network Security Controls]] - [[Changes in Configuration Management|Verification & Configuration Management]]`
 
   
 
 ## Course Content
 
-- [Basic Device Administration](2.%20Basic%20Device%20Administration/index)
+- [Basic Device Administration](Administration%20Basics.md)
 
-- [Initial Access and Preparation](1.%20Initial%20Access%20and%20Preparation/index)
+- [Initial Access and Preparation](Preparation.md)
 
-- [Network Segmentation (VLANs)](3.%20Network%20Segmentation%20(VLANs)/index)
+- [Network Segmentation (VLANs)](What%20are%20Vlans%20and%20How%20They%20Work.md)
 
   
 
 ## Configuration and Control
 
-- [Port & Interface Configuration](4.%20Port%20and%20Interface%20Configuration/index)
+- [Port & Interface Configuration](Configuration%20Interfaces.md)
 
-- [Network Security Controls](5.%20Network%20Security%20Controls/index.md)
+- [Network Security Controls](Security%20Basics.md)
 
-- [Verification & Configuration Management](6.%20Verification%20and%20Configuration%20Management/index.md)
+- [Verification & Configuration Management](Changes%20in%20Configuration%20Management.md)
 

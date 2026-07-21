@@ -1,6 +1,6 @@
 ## Related Categories
 
-If you haven't completed [[1. Initial Access and Preparation/index|Initial Access and Preparation]] please click the link.
+If you haven't completed [[Preparation|Initial Access and Preparation]] please click the link.
 
 ### Switch Diagram
 
@@ -30,4 +30,4 @@ Good administration is mostly about consistency, not complexity.
 
 ## Related notes
 
-This page connects to [Initial Access and Preparation](1.%20Initial%20Access%20and%20Preparation/index), [Port & Interface Configuration](4.%20Port%20and%20Interface%20Configuration/index), and [Verification & Configuration Management](6.%20Verification%20and%20Configuration%20Management/index.md)
+This page connects to [Initial Access and Preparation](Preparation.md), [Port & Interface Configuration](Configuration%20Interfaces.md), and [Verification & Configuration Management](Changes%20in%20Configuration%20Management.md)
