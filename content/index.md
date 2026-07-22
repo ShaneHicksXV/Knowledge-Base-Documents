@@ -5,7 +5,7 @@ title: Steps for Configuring a Network Switch
 
   
 
- [[Administration Basics|Basic Device Administration]] - [[Preparation|Initial Access and Preparation]] - [[What are Vlans and How They Work|Network Segmentation (VLANs)]] - [[Configuration Interfaces|Port & Interface Configuration]] - [[Security Basics|Network Security Controls]] - [[Changes in Configuration Management|Verification & Configuration Management]]`
+ [[Administration Basics|Basic Device Administration]] - [[Initial Preparation|Initial Access and Preparation]] - [[What are Vlans and How They Work|Network Segmentation (VLANs)]] - [[Configuration Interfaces|Port & Interface Configuration]] - [[Security Basics|Network Security Controls]] - [[Changes in Configuration Management|Verification & Configuration Management]]`
 
   
 
@@ -13,7 +13,7 @@ title: Steps for Configuring a Network Switch
 
 - [Basic Device Administration](Administration%20Basics.md)
 
-- [Initial Access and Preparation](Preparation.md)
+- [Initial Access and Preparation](Initial%20Preparation.md)
 
 - [Network Segmentation (VLANs)](What%20are%20Vlans%20and%20How%20They%20Work.md)
 

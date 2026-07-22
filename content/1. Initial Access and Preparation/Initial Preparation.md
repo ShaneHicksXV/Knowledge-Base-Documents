@@ -1,6 +1,6 @@
 ## Related Categories
 
-After the completion of the steps below click on this link to continue [[Access|Accessing Command Line for Initial Configuration]]
+After the completion of the steps below click on this link to continue [[Initial Access|Accessing Command Line for Initial Configuration]]
 
 ### Network Switch 
 

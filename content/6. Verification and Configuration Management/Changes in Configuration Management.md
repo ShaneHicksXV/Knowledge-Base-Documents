@@ -21,4 +21,4 @@ The best switch administrators do not just change settings. They also confirm, d
 
 ## Related pages
 
-This page connects back to [Basic Device Administration](Administration%20Basics.md), [Initial Access and Preparation](Preparation.md), and [Security Basics](Security%20Basics.md).
+This page connects back to [Basic Device Administration](Administration%20Basics.md), [Initial Access and Preparation](Initial%20Preparation.md), and [Security Basics](Security%20Basics.md).
