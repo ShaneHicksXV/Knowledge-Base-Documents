@@ -3,27 +3,30 @@ title: Steps for Configuring a Network Switch
 ---
 ## Main Categories
 
-  
-
- [[Administration Basics|Basic Device Administration]] - [[Initial Preparation|Initial Access and Preparation]] - [[What are Vlans and How They Work|Network Segmentation (VLANs)]] - [[Configuration Interfaces|Port & Interface Configuration]] - [[Security Basics|Network Security Controls]] - [[Changes in Configuration Management|Verification & Configuration Management]]`
-
-  
+  [[Administration Basics|Basic Device Administration]] - [[Initial Preparation|Initial Access and Preparation]] - [[What are Vlans and How They Work|Network Segmentation (VLANs)]] - [[Configuration Interfaces|Port & Interface Configuration]] - [[Security Basics|Network Security Controls]] - [[Changes in Configuration Management|Verification & Configuration Management]]`
 
 ## Course Content
 
-- [Basic Device Administration](Administration%20Basics.md)
-
-- [Initial Access and Preparation](Initial%20Preparation.md)
-
-- [Network Segmentation (VLANs)](What%20are%20Vlans%20and%20How%20They%20Work.md)
-
+- Initial Access and Preparation
+* Basic Device Administration
+- Network Segmentation
+* Port and Interface Configuration
+- Network Security Controls
+* Verification and Configuration Management
   
+## Command Line
 
-## Configuration and Control
+- [Pre-configuration](2. Basic Device Administration/Preconfiguration Commands)
+- [Creating a VLAN](3. Network Segmentation (VLANs)/Creating a VLAN through Command Line)
+- [Configuring Interfaces](4. Port and Interface Configuration/Configuration Interfaces)
+- [ACL and Security](5. Network Security Controls/ACL and Security Commands)
+- [Post Configuration](6. Verification and Configuration Management/Post Configuration Commands)
 
-- [Port & Interface Configuration](Configuration%20Interfaces.md)
+## Troubleshooting
 
-- [Network Security Controls](Security%20Basics.md)
+* [Device Administration](2. Basic Device Administration/Troubleshooting Device Administration)
+* [VLANs](3. Network Segmentation (VLANs)/Troubleshooting VLAN issues)
+* [Interfaces](4. Port and Interface Configuration/Troubleshooting Interface and Port Issues)
+* [Network Security](5. Network Security Controls/Troubleshooting Network Security Issues)
 
-- [Verification & Configuration Management](Changes%20in%20Configuration%20Management.md)
 
