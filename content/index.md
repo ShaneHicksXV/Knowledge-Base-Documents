@@ -1,5 +1,5 @@
 ---
-title: Steps for Configuring a Network Switch
+title: Steps for Configuring a Cisco Switch
 ---
 ## Main Categories
 
