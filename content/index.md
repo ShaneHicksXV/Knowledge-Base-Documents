@@ -24,9 +24,9 @@ title: Steps for Configuring a Network Switch
 
 ## Troubleshooting
 
-* [Device Administration](2. Basic Device Administration/Troubleshooting Device Administration)
-* [VLANs](3. Network Segmentation (VLANs)/Troubleshooting VLAN issues)
-* [Interfaces](4. Port and Interface Configuration/Troubleshooting Interface and Port Issues)
-* [Network Security](5. Network Security Controls/Troubleshooting Network Security Issues)
+* [[Troubleshooting Device Administration|Device Administration]]
+* [[Troubleshooting VLAN issues|VLANs]]
+* [[Troubleshooting Interface and Port Issues|Interfaces]]
+* [[Troubleshooting Network Security Issues|Network Security]]
 
 
