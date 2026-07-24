@@ -16,11 +16,11 @@ title: Steps for Configuring a Network Switch
   
 ## Command Line
 
-- [Pre-configuration](2. Basic Device Administration/Preconfiguration Commands)
-- [Creating a VLAN](3. Network Segmentation (VLANs)/Creating a VLAN through Command Line)
-- [Configuring Interfaces](4. Port and Interface Configuration/Configuration Interfaces)
-- [ACL and Security](5. Network Security Controls/ACL and Security Commands)
-- [Post Configuration](6. Verification and Configuration Management/Post Configuration Commands)
+- [[Preconfiguration Commands|Pre-Configuration]]]
+- [[Creating a VLAN through Command Line|VLAN Configuration]]
+- [[Configuring Ports with Command Line|Interface Configuration]]
+- [[Configuring Ports with Command Line|Port Configuration]]
+- [[Post Configuration Commands|Post Configuration]]
 
 ## Troubleshooting
 
