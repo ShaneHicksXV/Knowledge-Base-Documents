@@ -16,7 +16,7 @@ title: Steps for Configuring a Network Switch
   
 ## Command Line
 
-- [[Preconfiguration Commands|Pre-Configuration]]]
+- [[Preconfiguration Commands|Pre-Configuration]]
 - [[Creating a VLAN through Command Line|VLAN Configuration]]
 - [[Configuring Ports with Command Line|Interface Configuration]]
 - [[Configuring Ports with Command Line|Port Configuration]]
