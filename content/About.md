@@ -1,4 +1,4 @@
-# About
+# Summary
 
 This knowledge base is a simple guide for configuring a network switch. It is written in a clear and easy way so it can be used for a final project or quick study notes. Cisco’s own switch setup guide follows the same basic flow: check the hardware, set up management access, configure ports, and verify everything at the end.
 
