@@ -1,4 +1,3 @@
-# References
 
 Cisco. (2025, May 18). *Cisco support, documentation, and downloads*. https://www.cisco.com/c/en/us/support/index.html
 
